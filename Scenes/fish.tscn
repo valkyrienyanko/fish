@@ -7,7 +7,14 @@
 script = ExtResource("1_p8sym")
 
 [node name="Camera2D" type="Camera2D" parent="."]
-zoom = Vector2(4, 4)
+position = Vector2(191, -29)
+zoom = Vector2(2, 2)
+
+[node name="StaticBody2D" type="StaticBody2D" parent="."]
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="StaticBody2D"]
+position = Vector2(6, -10)
+polygon = PackedVector2Array(20, 29, 88, -13, 174, -9, 190, 23, 173, 82, 89, 101, 19, 70)
 
 [node name="CanvasLayer" type="CanvasLayer" parent="."]
 
