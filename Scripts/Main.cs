@@ -6,7 +6,7 @@ public partial class Main : Node
     {
         // Add a single fish to the scene
         Fish fish = Prefabs.Fish.Instantiate<Fish>();
-        fish.Position = DisplayServer.WindowGetSize() / 2;
+        fish.Position = Vector2.Zero;
         AddChild(fish);
     }
 }
