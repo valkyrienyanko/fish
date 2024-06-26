@@ -1,4 +1,4 @@
-namespace Template;
+namespace Fish;
 
 using Environment = Godot.Environment;
 

@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace Template;
+namespace Fish;
 
 public class ConsoleCommandInfo
 {

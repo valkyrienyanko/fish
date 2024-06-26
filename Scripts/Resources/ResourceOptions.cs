@@ -1,4 +1,4 @@
-﻿namespace Template;
+﻿namespace Fish;
 
 using VSyncMode = DisplayServer.VSyncMode;
 using QualityP = QualityPreset;

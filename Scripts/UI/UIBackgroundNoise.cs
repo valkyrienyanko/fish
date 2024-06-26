@@ -1,4 +1,4 @@
-namespace Template;
+namespace Fish;
 
 public partial class UIBackgroundNoise : Sprite2D
 {

@@ -1,6 +1,6 @@
 using static Godot.DisplayServer;
 
-namespace Template;
+namespace Fish;
 
 public partial class UIOptionsDisplay : Control
 {

@@ -1,4 +1,4 @@
-namespace Template;
+namespace Fish;
 
 [GlobalClass]
 public partial class GameState : Resource

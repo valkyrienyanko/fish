@@ -1,4 +1,4 @@
-﻿namespace Template;
+﻿namespace Fish;
 
 public class GameServiceProvider : ServiceProvider
 {

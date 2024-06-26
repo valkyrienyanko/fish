@@ -1,4 +1,4 @@
-﻿namespace Template;
+﻿namespace Fish;
 
 [AttributeUsage(AttributeTargets.Method)]
 public class ConsoleCommandAttribute : Attribute

@@ -1,4 +1,4 @@
-﻿namespace Template;
+﻿namespace Fish;
 
 public static class Sounds
 {
